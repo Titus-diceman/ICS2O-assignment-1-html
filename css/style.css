@@ -1,0 +1,26 @@
+/* Created by: Titus diceman 
+ * Created on: Sep 2020
+ * This CSS file defines the style for index.html ICS2O-Unit1-04-HTML-CSS
+*/
+
+body {
+  background-color: rgb(245 198 60);
+}
+
+h1 {
+  background-color: rgb(187 80 152);
+  color: rgb(83 68 169);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: rgb(244 127 107);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 325px
+}
