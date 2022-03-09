@@ -1,10 +1,11 @@
 /* Created by: Titus diceman 
  * Created on: Sep 2020
- * This CSS file defines the style for index.html ICS2O-Unit1-04-HTML-CSS
+ * This CSS file defines the style for index.html ICS2O-assignment-1-html
 */
 
 body {
   background-color: rgb(255 189 211);
+  text-align: center;
 }
 
 h1 {
